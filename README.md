@@ -38,7 +38,7 @@ README.md                                    # Project documentation
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/smart-shopping-assistant.git
+git clone https://github.com/anushka-0907/smart-shopping-assistant.git
 cd smart-shopping-assistant
 ```
 
