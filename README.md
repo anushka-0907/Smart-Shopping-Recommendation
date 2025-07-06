@@ -42,12 +42,6 @@ git clone https://github.com/anushka-0907/smart-shopping-assistant.git
 cd smart-shopping-assistant
 ```
 
-4. (Optional) Create a virtual environment and install dependencies.
-
-```bash
-pip install tensorflow matplotlib numpy
-```
-
 ## Model Performance
 
 The model achieves decent accuracy (\~89–92%) on the test set, which is sufficient for a prototype assistant in fashion item recognition.
